@@ -1,2 +1,10 @@
-A=10;
-print (A)
+def count_function (x,x):
+  A == x + 10+1 
+  B == y + 10+1 
+  return A
+  return B
+x = 10
+y = 20
+count_function(x,y)
+print(x)
+print(y)
