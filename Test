@@ -1,14 +1,5 @@
 def count_function (x,y):
-  A == x + 10+1 
-  B == y + 10+1 
-  return A
-  return B
-x = 10
-y = 20
-count_function(x,y)
-print(x)
-print(y)
-
-a=10
-b=20
-print(a+b)
+  A = x + 10+1 
+  B = y + 10+2
+  C = (A+B)/2 
+  print ("The solve eq of this numbers is plus", C)
